@@ -1,0 +1,20 @@
+.content{
+    background-color: aliceblue;
+    width: 100%;
+    height: 100px;
+}
+.header{
+    background-color: cornsilk;
+    width: 100%;
+    height: 30px;
+}
+.body{
+    background-color: darkgrey;
+    width: 100%;
+    height: calc(100%-60px);
+}
+.fotter{
+    background-color: gold;
+    width: 100%;
+    height: 30px;
+}
